@@ -1,0 +1,76 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "compyle_poster.ipynb",
+      "provenance": [],
+      "collapsed_sections": [
+        "bL5NnpbxvY_F"
+      ],
+      "toc_visible": true,
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bhattronak/Google_Colaboratory_Work/blob/main/Coursera_Financial_Ad\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "ehcRIcwG1020"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "_tZzF6eI1_vi"
+      },
+      "source": [
+        "Why are you applying for Financial Aid? (150 words minimum required)\n",
+        "Respected sir,\n",
+        "                    I belong to very poor Indian family. I live in a small village. My father is a farmer in our village. He is struggling with so many issues of his own. In such a situation I can not ask him to pay money for me. If I as him to pay then it will create more tension to him and even do not able to pay. I am a student and not earning at all. Although I work for half of the day and whatever I earn I gives it to my father. But for my own I am not earning anything. I used to work half day and study in another half day which is quit difficult for me. Your this facility of having financial ad is a boon for students like me and we can utilize it and study whatever we want, Which is awesome of you. You are helping to needy people which is very nice and kind of you. I hope you will approve my this request so that I can learn this things properly.\n",
+        "Thank You\n",
+        "\n",
+        "How will taking this course help you achieve your career goals? (150 words minimum required)\n",
+        "Respected sir,\n",
+        "                   I do want to become data scientist in future .Your platform is very useful for that. I am from mechanical background and data science field is slightly different from what I have learned ,That's why I am applying here and try to achieve my goals. I have already completed few courses of python and now in the next step my senior suggested me for this course. So that I can go nearer to my goals and achieve them with help of this wonderful course of yours. I have future planning also after this course. When I complete this course then I will eligible to apply in few companies which is actually a great news for guy like me from poor background. Once I earn something then I will start those money to utilize my further studies and its such a great thing for me. I hope you will understand my situation and help me by this financial ad approving. I am very encourage to learn this things as soon as possible.\n",
+        "Thank You\n",
+        "If you answered no, please help us understand why.\n",
+        "Respected sir,\n",
+        "      As I said I am from very poor background and to pay this much money is almost impossible for us. My father is already struggling with their own problems and in such a situation I can not ask him to pay money for this. There is no other source of income in my family. My sister is also studying and my mother is housewife. So there is no way by which I can pay anything for this course. Hope you understand and approve my request.\n",
+        "\n",
+        "Thank you\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "brxfGsJU2CrZ"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
